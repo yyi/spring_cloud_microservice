@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goods-client/goods-client.iml" filepath="$PROJECT_DIR$/goods-client/goods-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-domain/goods-domain.iml" filepath="$PROJECT_DIR$/goods-domain/goods-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-microservice.iml" filepath="$PROJECT_DIR$/goods-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-object/goods-object.iml" filepath="$PROJECT_DIR$/goods-object/goods-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-restapi/goods-restapi.iml" filepath="$PROJECT_DIR$/goods-restapi/goods-restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-wap/goods-wap.iml" filepath="$PROJECT_DIR$/goods-wap/goods-wap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-web/goods-web.iml" filepath="$PROJECT_DIR$/goods-web/goods-web.iml" />
+    </modules>
+  </component>
+</project>

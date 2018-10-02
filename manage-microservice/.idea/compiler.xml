@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="manage-domain" />
+        <module name="manage-object" />
+        <module name="manage-restapi" />
+        <module name="manage-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="manage-domain" target="1.8" />
+      <module name="manage-microservice" target="1.8" />
+      <module name="manage-object" target="1.8" />
+      <module name="manage-restapi" target="1.8" />
+      <module name="manage-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

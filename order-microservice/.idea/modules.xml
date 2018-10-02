@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-client/order-client.iml" filepath="$PROJECT_DIR$/order-client/order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-domain/order-domain.iml" filepath="$PROJECT_DIR$/order-domain/order-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-microservice.iml" filepath="$PROJECT_DIR$/order-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-object/order-object.iml" filepath="$PROJECT_DIR$/order-object/order-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-restapi/order-restapi.iml" filepath="$PROJECT_DIR$/order-restapi/order-restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-wap/order-wap.iml" filepath="$PROJECT_DIR$/order-wap/order-wap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-web/order-web.iml" filepath="$PROJECT_DIR$/order-web/order-web.iml" />
+    </modules>
+  </component>
+</project>

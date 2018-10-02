@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="catalog-client" />
+        <module name="catalog-domain" />
+        <module name="catalog-object" />
+        <module name="catalog-restapi" />
+        <module name="catalog-wap" />
+        <module name="catalog-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="catalog-client" target="1.8" />
+      <module name="catalog-domain" target="1.8" />
+      <module name="catalog-microservice" target="1.8" />
+      <module name="catalog-object" target="1.8" />
+      <module name="catalog-restapi" target="1.8" />
+      <module name="catalog-wap" target="1.8" />
+      <module name="catalog-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
